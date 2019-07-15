@@ -9,16 +9,16 @@ The GatorRent application will allow a user (users of the GatorRent application 
 Our student start-up team is comprised of current computer science students of SFSU, including domestic and international students of different backgrounds. Our personal experiences with finding off-campus and on-campus housing have contributed largely to the ideation of the intended purpose and design of the GatorRent application with the potential range of users in mind.
 
 ### Committed Function List:
-1.1 Users can: 
-1.2 Login or register themselves a user of the website.
-1.3 Easily search and browse for listings.
-1.4 Post a place for rent.
-1.5nFilter their search results by price, rent-type, price, postcode, if pets are allowed and if the rent-type is shared.
-1.6 View additional details about any listing, including a map displaying thelocation of the listing.
-1.7 Message any landlord about a specific listing and view all received messages on their dashboard.
-1.8 Contact the Admin regarding any concerns through the Contact Us page.
-1.9 Unique feature: users can filter listings respective to their distance from SFSU.
-1.10 We ensured the proper safety precautions when users are visiting and using
+1.1 Users can: <br/>
+1.2 Login or register themselves a user of the website. <br/>
+1.3 Easily search and browse for listings.<br/>
+1.4 Post a place for rent.<br/>
+1.5nFilter their search results by price, rent-type, price, postcode, if pets are allowed and if the rent-type is shared.<br/>
+1.6 View additional details about any listing, including a map displaying thelocation of the listing.<br/>
+1.7 Message any landlord about a specific listing and view all received messages on their dashboard.<br/>
+1.8 Contact the Admin regarding any concerns through the Contact Us page.<br/>
+1.9 Unique feature: users can filter listings respective to their distance from SFSU.<br/>
+1.10 We ensured the proper safety precautions when users are visiting and using<br/>
 
 ### UI 
 ![Screen Shot 2019-07-15 at 11 49 53 AM](https://user-images.githubusercontent.com/47591726/61243245-63551300-a6fc-11e9-9deb-a2d5b0c6aea0.png)
