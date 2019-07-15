@@ -1,4 +1,4 @@
-# Software-Engineeing-Project
+# Software-Engineering-Project
 ## Team 08
 ## Author: Ermias Haile with 7 team members 
 january 28, 2019
