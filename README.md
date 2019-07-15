@@ -23,15 +23,23 @@ Our student start-up team is comprised of current computer science students of S
 ### UI 
 ![Screen Shot 2019-07-15 at 11 49 53 AM](https://user-images.githubusercontent.com/47591726/61243245-63551300-a6fc-11e9-9deb-a2d5b0c6aea0.png)
 
+
 ![Screen Shot 2019-07-15 at 11 51 19 AM](https://user-images.githubusercontent.com/47591726/61243246-63551300-a6fc-11e9-9383-92ea6d5e6e1d.png)
+
 
 ![Screen Shot 2019-07-15 at 11 48 44 AM](https://user-images.githubusercontent.com/47591726/61243248-63551300-a6fc-11e9-9767-33d6fc10cf5f.png)
 
+
 ![Screen Shot 2019-07-15 at 11 50 13 AM](https://user-images.githubusercontent.com/47591726/61243249-63eda980-a6fc-11e9-855a-11419b6933b3.png)
+
 
 ![Screen Shot 2019-07-15 at 11 49 10 AM](https://user-images.githubusercontent.com/47591726/61243250-63eda980-a6fc-11e9-8082-235d03101cec.png)
 
+
 ![Screen Shot 2019-07-15 at 11 50 36 AM](https://user-images.githubusercontent.com/47591726/61243251-63eda980-a6fc-11e9-8eea-d23eb6fe1ce2.png)
+
 
 ![Screen Shot 2019-07-15 at 11 50 55 AM](https://user-images.githubusercontent.com/47591726/61243252-63eda980-a6fc-11e9-89cd-3cae5734ee4d.png)
 
+
+![Screen Shot 2019-07-15 at 11 48 15 AM](https://user-images.githubusercontent.com/47591726/61243482-e7a79600-a6fc-11e9-9eed-a3e56003f2e2.png)
