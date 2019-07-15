@@ -1,0 +1,24 @@
+<nav class="navbar navbar-light bg-light justify-content-start align-items-stretch pt-4">
+   <a class="navbar-brand w-25" href="/">
+     <center>
+     <img class="d-block w-75 h-65" src="{{url_for('static', filename='img/gatorrent_logo.png')}}"  alt="GatorRent Logo" />
+     </center>
+   </a>
+
+   <form class="form-inline shadow-sm w-50" method="post" action="{{ url_for('results') }}">
+      <div class="input-group w-100">
+         <div class="input-group-prepend">
+            <select class="form-control" name="filter">
+               <option value="All properties">All properties</option>
+               <option value="101">Room</option>
+               <option value="102">Apartment</option>
+               <option value="103">House</option>
+            </select>
+         </div>
+         <input type="text" class="form-control align-self-stretch" name="search">
+         <div class="input-group-append">
+            <button class="btn btn-primary" type="submit">Search</button>
+         </div>
+      </div>
+   </form>
+</nav>
